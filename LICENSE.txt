@@ -1,0 +1,15 @@
+
+This code was made as part of the course on Java
+offered by DevDojoAcademy
+https://www.youtube.com/@DevDojoAcademy
+
+Links to the course:
+
+Java One For All
+https://www.youtube.com/playlist?list=PL0Un1HNdB4jGKw5szJrQETqJTlZKyKReu
+
+Link to the course (Language Portuguese)
+Maratona Java Virado no Jiraya
+https://www.youtube.com/playlist?list=PL62G310vn6nFIsOCC0H-C2infYgwm8SWW
+
+Substantial parts of this software were presented by the instructor during the course.
